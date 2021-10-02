@@ -1,15 +1,15 @@
 <!---![Header image](https://raw.githubusercontent.com/jayrajroshan/jayrajroshan/master/Assets/myHeader.jpg)--->
 
 ### Hi there, glad you could join us today! 
-i'm a champion of emerging technologies, particularly in biomedicine. 
+I'm a champion of emerging technologies, particularly in biomedicine. 
 
-- 🔭 I’m currently working on delineating the progression of multiple myeloma as a PhD Candidate at USC Michelson Center
+- 🔭 Currently working on delineating the progression of multiple myeloma as a PhD Candidate at USC Michelson Center
 - ⚡ Fun fact: i speak Kirundi, French, some Swahili, and a little bit of English. 
 -  motto : If at first you don't succeed, that's one data point! 
 
 ---
 ### 📫 How to reach me:
-<a href="<https://www.linkedin.com/in/ndacayisaba/>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white</a>
+<a href="<https://www.linkedin.com/in/ndacayisaba/>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white></a>
 
 ---
 
