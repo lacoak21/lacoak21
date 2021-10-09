@@ -10,7 +10,7 @@
 - 📖 Experienced in computational drug discovery and target identification, biotechnology, and machine learning
 - 🔭 Currently working on delineating the progression of multiple myeloma using single cell biology and predictive math modeling
 - 🌱 I’m currently learning about quantum biology, game theory, and venture capital 
-- 🌍 Forged by villages of Burundi, I hold dual citizen of :burundi: and US :us:, fluent in Kirundi, French, Swahili, and some English
+- 🌍 Forged by villages of Burundi, I hold dual citizenship of :burundi: and US :us:, fluent in Kirundi, French, Swahili, and some English
 - 📫 Check out my [personal site](https://liberendacayisaba.com/) and connect via [![Linkedin: Libere](https://img.shields.io/badge/-LibereNdacayisaba-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ndacayisaba/)](https://www.linkedin.com/in/ndacayisaba/), ![Twitter: Libere](https://img.shields.io/twitter/follow/libertatemN?style=social), [![GitHub Libere](https://img.shields.io/github/followers/libertatem?label=follow&style=social)](https://github.com/libertatem)
  - ⛽ You may fuel what I do via:
  <a href="https://www.buymeacoffee.com/libertatem"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="40" width="150" alt="libertatem" /></a>
