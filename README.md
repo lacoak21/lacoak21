@@ -6,10 +6,10 @@
 ### I'm a quantitative bioscientist based in Los Angeles, California 
 
 - 👨‍🔬 PhD Candidate in Medical Biophysics @ USC Michelson Center [Convergent Science Institute in Cancer](https://kuhn.usc.edu/)
-- 🕵️ Interested in understanding the pathogenesis of complex diseases and developping new medicines
-- 📖 Experienced in computational drug discovery and target identification, biotechnology, and machine learning
-- 🔭 Currently working on delineating the progression of multiple myeloma using single cell biology and predictive math modeling
-- 🌱 I’m currently learning about quantum biology, game theory, and venture capital 
+- 🕵️ Interested in...understanding complex diseases and making medicines - particularly excited for novel therapeutic modalities
+- 📖 Experienced in...computational biology, drug discovery and target identification, machine learning, single cell multiomics, and biotechnology
+- 🔭 Currently working on...delineating the progression of multiple myeloma using single cell multiomics and predictive math modeling
+- 🌱 I’m currently learning about...venture capital  
 - 🌍 Forged by villages of Burundi, I hold dual citizenship of :burundi: and US :us:, fluent in Kirundi, French, Swahili, and some English
 - 📫 Check out my [personal site](https://liberendacayisaba.com/) and connect via [![Linkedin: Libere](https://img.shields.io/badge/-LibereNdacayisaba-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ndacayisaba/)](https://www.linkedin.com/in/ndacayisaba/), ![Twitter: Libere](https://img.shields.io/twitter/follow/libertatemN?style=social), [![GitHub Libere](https://img.shields.io/github/followers/libertatem?label=follow&style=social)](https://github.com/libertatem)
  - ⛽ You may fuel what I do via:
