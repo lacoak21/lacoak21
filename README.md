@@ -11,7 +11,8 @@
 - 🔭 Currently working on...delineating the progression of plasma B cell cancers using single cell multiomics and predictive math modeling
 - 🌱 I’m currently learning about...venture capital, business strategy  
 - 🌍 Forged by villages of Burundi, I hold dual citizenship of :burundi: and US :us:, fluent in Kirundi, French, Swahili, and some English
-- 📫 Check out my [personal site](https://liberendacayisaba.com/) and connect via [![Linkedin: Libere](https://img.shields.io/badge/-LibereNdacayisaba-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ndacayisaba/)](https://www.linkedin.com/in/ndacayisaba/), ![Twitter: Libere](https://img.shields.io/twitter/follow/libertatemN?style=social), [![GitHub Libere](https://img.shields.io/github/followers/libertatem?label=follow&style=social)](https://github.com/libertatem)
+- 📫 Check out my [personal site](https://liberendacayisaba.com/) and connect on LinkedIn [![Linkedin: Libere](https://img.shields.io/badge/-LibereNdacayisaba-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ndacayisaba/)](https://www.linkedin.com/in/ndacayisaba/) and Twitter ![Twitter: Libere](https://img.shields.io/twitter/follow/libertatemN?style=social)
+- 😄 Pronouns: he / him / his 
   
 ---
   > **If at first you don't succeed, that's one data point!** 
