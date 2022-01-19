@@ -9,7 +9,7 @@
 - 🕵️ Interested in...deeply understanding disease complexity and making innovative medicines
 - 📖 Experienced in...computational biology, drug discovery and target identification, machine/deep learning, single cell multiomics
 - 🔭 Currently working on...single cell multiomic assays and ML models to delineate the progression of plasma B cell cancers
-- 🌱 I’m currently learning about...venture capital and business strategy  
+- 🌱 I’m currently learning about...venture capital and business strategy in biotech/life science  
 - 🌍 Forged by villages of Burundi, I hold dual citizenship of :burundi: and US :us:, fluent in Kirundi, French, Swahili, and some English
 - 📫 Check out my [personal site](https://liberendacayisaba.com/) and connect on LinkedIn [![Linkedin: Libere](https://img.shields.io/badge/-LibereNdacayisaba-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ndacayisaba/)](https://www.linkedin.com/in/ndacayisaba/) and Twitter ![Twitter: Libere](https://img.shields.io/twitter/follow/libertatemN?style=social)
 - 😄 Pronouns: he / him / his 
