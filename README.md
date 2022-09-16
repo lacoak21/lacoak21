@@ -7,7 +7,7 @@
 
 - 👨‍🔬 Ph.D. in Medical Biophysics from USC
 - 🕵️ Interested in...understanding disease complexity and making innovative medicines
-- 📖 Experienced in...computational biology, drug discovery and target identification, machine/deep learning, single cell multiomics
+- 📖 Experienced in...computational biology, machine/deep learning, drug discovery, target identification, single-cell 'omics
 - 🔭 Currently working on...RNA-directed therapeutics
 - 🌱 Currently learning about...venture capital and business strategy in biotech/life science  
 - 🌍 Born in the villages of Burundi, I hold dual citizenship of :burundi: and US :us:, fluent in Kirundi, French, English, some Swahili
