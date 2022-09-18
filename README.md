@@ -3,14 +3,14 @@
   
 <!---![Header image](https://raw.githubusercontent.com/jayrajroshan/jayrajroshan/master/Assets/myHeader.jpg)--->
 
-### I'm a Computational Biologist II at NextRNA Therapeutics in Boston, MA 
+### I'm a Computational Biologist II at [NextRNA Therapeutics](https://www.nextrnatx.com/) in Boston, MA 
 
-- 👨‍🔬 Ph.D. in Medical Biophysics from USC
-- 🕵️ Interested in...understanding disease complexity and making innovative medicines
-- 📖 Experienced in...computational biology, machine/deep learning, drug discovery, single-cell 'omics, biotechnology
-- 🔭 Currently working on...enabling prediction and precision in RNA-directed therapeutics 
-- 🌱 Currently learning about...venture capital and business strategy in biotech/life science  
-- 🌍 Born in the villages of Burundi, I hold dual citizenship of :burundi: and US :us:, fluent in Kirundi, French, English, some Swahili
+- 👨‍🔬 Ph.D. in Medical Biophysics from [USC](https://www.usc.edu/). Fight on!  
+- 📖 Experienced in...computational biology, machine/deep learning, drug discovery, multiomics
+- 🔭 Working on...enabling prediction and precision in RNA-directed medicines 
+- 🌱 Learning about...RNA biology, venture capital, and business strategy in biotech/life science 
+- 🕵️ Interested in a future with...synthetic biology, quantum biology,  
+- 🌍 Dual citizen of Burundi :burundi: and US :us:; fluent in Kirundi, French, English, basic Swahili
 - 📫 Connect on LinkedIn [![Linkedin: Libere](https://img.shields.io/badge/-LibereNdacayisaba-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ndacayisaba/)](https://www.linkedin.com/in/ndacayisaba/) and Twitter ![Twitter: Libere](https://img.shields.io/twitter/follow/libertatemN?style=social). 
 - 😄 Pronouns: he / him / his 
 - More on my [personal site](https://liberendacayisaba.com/)
