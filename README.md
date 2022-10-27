@@ -3,7 +3,7 @@
   
 <!---![Header image](https://raw.githubusercontent.com/jayrajroshan/jayrajroshan/master/Assets/myHeader.jpg)--->
 
-### I'm a Computational Biologist II at [NextRNA Therapeutics](https://www.nextrnatx.com/) in Boston, MA 
+### I'm a Computational Biologist II at [NextRNA Therapeutics](https://www.nextrnatx.com/).  
 
 - 👨‍🔬 Ph.D. in Medical Biophysics from [USC](https://www.usc.edu/). Fight on!  
 - 📖 Experienced in...computational biology, machine/deep learning, drug discovery, multiomics
