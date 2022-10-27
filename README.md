@@ -8,7 +8,7 @@
 - 👨‍🔬 Ph.D. in Medical Biophysics from [USC](https://www.usc.edu/). Fight on!  
 - 📖 Experienced in...computational biology, machine/deep learning, drug discovery, multiomics
 - 🔭 Working on...enabling prediction and precision in RNA-directed medicines 
-- 🌱 Learning about...RNA biology, venture capital, and business strategy in biotech/life science 
+- 🌱 Learning about...RNA biology, geometric deep learning, venture capital and business strategy in biotech 
 - 🕵️ Interested in...applied machine intelligence, synthetic biology, quantum biology
 - 🌍 Dual citizen of Burundi :burundi: and US :us:; fluent in Kirundi, French, English, basic Swahili
 - 📫 Connect on LinkedIn [![Linkedin: Libere](https://img.shields.io/badge/-LibereNdacayisaba-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ndacayisaba/)](https://www.linkedin.com/in/ndacayisaba/) and Twitter ![Twitter: Libere](https://img.shields.io/twitter/follow/libertatemN?style=social). 
