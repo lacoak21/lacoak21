@@ -10,10 +10,8 @@
 - 🔭 Working on...enabling prediction and precision in RNA-directed medicines 
 - 🌱 Learning about...RNA biology, geometric deep learning, venture capital and business strategy in biotech 
 - 🕵️ Interested in...applied machine intelligence, synthetic biology, quantum biology
-- 🌍 Dual citizen of Burundi :burundi: and US :us:; fluent in Kirundi, French, English, basic Swahili
-- 📫 Connect on LinkedIn [![Linkedin: Libere](https://img.shields.io/badge/-LibereNdacayisaba-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ndacayisaba/)](https://www.linkedin.com/in/ndacayisaba/) and Twitter ![Twitter: Libere](https://img.shields.io/twitter/follow/libertatemN?style=social). 
-- 😄 Pronouns: he / him / his 
-- ⚡ More on my [personal site](https://liberendacayisaba.com/)
+- 📫 Connect on LinkedIn [![Linkedin: luisa](https://img.shields.io/badge/-LibereNdacayisaba-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lcoakley)](www.linkedin.com/in/lcoakley)
+- 😄 Pronouns: she / her
   
 ---
   > **If at first you don't succeed, that's one data point!**
