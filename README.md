@@ -3,9 +3,9 @@
   
 <!---![Header image](https://raw.githubusercontent.com/jayrajroshan/jayrajroshan/master/Assets/myHeader.jpg)--->
 
-### I'm a Computational Biologist II at [NextRNA Therapeutics](https://www.nextrnatx.com/).  
+### I'm a DevOps Engineer at [NextRNA Therapeutics](https://www.nextrnatx.com/).  
 
-- 👨‍🔬 Ph.D. in Medical Biophysics from [USC](https://www.usc.edu/). Fight on!  
+- 👨‍🔬 Graduated from [Colby College](https://www.colby.edu/) in 2021.
 - 📖 Experienced in...computational biology, machine/deep learning, drug discovery, multiomics
 - 🔭 Working on...enabling prediction and precision in RNA-directed medicines 
 - 🌱 Learning about...RNA biology, geometric deep learning, venture capital and business strategy in biotech 
