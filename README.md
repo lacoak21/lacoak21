@@ -21,7 +21,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lacoak21&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
   
   ## <h3 align="left">Some GitHub Stats</h3>
-  <a href="hhttps://github.com/lacoak21?tab=followers">
+  <a href="https://github.com/lacoak21?tab=followers">
     <img src="https://img.shields.io/github/followers/lacoak21?tab=followers?label=blue&logo=github&style=for-the-badge" alt="GitHub badge" />
   </a>
  
