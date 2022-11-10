@@ -6,15 +6,12 @@
 ### I'm a DevOps Engineer at [NextRNA Therapeutics](https://www.nextrnatx.com/).  
 
 - 👨‍🔬 Graduated from [Colby College](https://www.colby.edu/) in 2021.
-- 📖 Experienced in...computational biology, machine/deep learning, drug discovery, multiomics
-- 🔭 Working on...enabling prediction and precision in RNA-directed medicines 
-- 🌱 Learning about...RNA biology, geometric deep learning, venture capital and business strategy in biotech 
-- 🕵️ Interested in...applied machine intelligence, synthetic biology, quantum biology
+- 📖 Experienced in...cloud computing, systems engineering, and app development
+- 🕵️ Interested in...software engineering, python, R
 - 📫 Connect on LinkedIn [![Linkedin: luisa](https://img.shields.io/badge/-LuisaCoakley-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lcoakley)](www.linkedin.com/in/lcoakley)
 - 😄 Pronouns: she / her
   
 ---
-  > **If at first you don't succeed, that's one data point!**
   
 <a href="">
   <img align="centre" src="https://github-readme-stats.vercel.app/api?username=lacoak21&count_private=true&include_all_commits=true&show_icons=true&title_color=990000&text_color=faf7f7&icon_color=990000&bg_color=FFC72C"/>
