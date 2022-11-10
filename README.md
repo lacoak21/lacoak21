@@ -10,7 +10,7 @@
 - 🔭 Working on...enabling prediction and precision in RNA-directed medicines 
 - 🌱 Learning about...RNA biology, geometric deep learning, venture capital and business strategy in biotech 
 - 🕵️ Interested in...applied machine intelligence, synthetic biology, quantum biology
-- 📫 Connect on LinkedIn [![Linkedin: luisa](https://img.shields.io/badge/-LibereNdacayisaba-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lcoakley)](www.linkedin.com/in/lcoakley)
+- 📫 Connect on LinkedIn [![Linkedin: luisa](https://img.shields.io/badge/-LuisaCoakley-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lcoakley)](www.linkedin.com/in/lcoakley)
 - 😄 Pronouns: she / her
   
 ---
