@@ -18,12 +18,17 @@
 <a />
   
 <!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lacoak21&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
   
-  ## <h3 align="left">Some GitHub Stats</h3>
-  <a href="https://github.com/lacoak21?tab=followers">
-    <img src="https://img.shields.io/github/followers/lacoak21?tab=followers?label=blue&logo=github&style=for-the-badge" alt="GitHub badge" />
-  </a>
+
+---
+
+### 🔥 &nbsp; My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsZed0&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsZed0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
  
 **lacoak21/lacoak21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
