@@ -12,15 +12,6 @@
 - 😄 Pronouns: she / her
   
 ---
-  
-<a href="">
-  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=lacoak21&count_private=true&include_all_commits=true&show_icons=true&title_color=990000&text_color=faf7f7&icon_color=990000&bg_color=FFC72C"/>
-<a />
-  
-<!--
-  
-
----
 
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsZed0&theme=dark&background=000000)](https://git.io/streak-stats)
@@ -28,6 +19,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsZed0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+  
+<!--
+  
 
  
 **lacoak21/lacoak21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
