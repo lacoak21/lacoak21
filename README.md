@@ -3,7 +3,7 @@
   
 <!---![Header image](https://raw.githubusercontent.com/jayrajroshan/jayrajroshan/master/Assets/myHeader.jpg)--->
 
-### I'm a DevOps Engineer at [NextRNA Therapeutics](https://www.nextrnatx.com/).  
+### I'm a Software Engineer at [LASP]([https://www.nextrnatx.com/](https://lasp.colorado.edu/)).  
 
 - 👨‍🔬 Graduated from [Colby College](https://www.colby.edu/) in 2021.
 - 📖 Experienced in...cloud computing, systems engineering, and app development
